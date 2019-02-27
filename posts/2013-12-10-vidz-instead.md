@@ -1,0 +1,26 @@
+---
+title: Vidz Instead
+date: '2013-12-10'
+---
+
+
+Vidz Instead
+============
+
+I stayed in Dresden for this past week, which was quite nice. I saw the
+new Hunger Games with some school mates, checked out some kind of
+experimental electronic music by some dudes from Chicago and New York,
+got my shit organized for the next semester in Italy, and got to help a
+little with cooking Cuban food. I didn't get into Sektor this Saturday,
+so I am having techno withdrawal :( 
+
+-   I will be in Budapest for New Years! I am balls excited. In Germany,
+    some people call New Year's Eve
+    [Silverster](http://en.wikipedia.org/wiki/Silvester).
+-   I overheard that TU Dresden sells cocktails during the Summer.
+-   There is an erotic car wash next to
+    Sektor...![](https://66.media.tumblr.com/33eaa2b09945f7c9b1d51fdd524c9fb9/tumblr_inline_mxlf6nBiXv1rctsd6.png)
+
+I wasn't very good at keeping track of the things that I had learned
+this week, so I decided it might be time for some media distractions!
+

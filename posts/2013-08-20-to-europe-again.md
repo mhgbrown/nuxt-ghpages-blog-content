@@ -1,0 +1,62 @@
+---
+title: To Europe (Again)
+date: '2013-08-20'
+---
+
+
+To Europe (Again)
+=================
+
+Ever since I've returned from Zaragoza, Spain with [School Year
+Abroad](http://www.sya.org/) almost a decade ago, I've wanted to go back
+-- not necessarily to Spain, but just somewhere European. My experiences
+there had a huge impact on my sixteen-year-old self, impacts that I am
+deeply grateful for today. The language skills, maturity, and worldly
+understanding and appreciation that I came away with have been
+invaluable intellectual assets as I've navigated the
+famously treacherous path of adulthood.
+
+Within the last year, I've been feeling restless. I live one of the most
+privileged lifestyles a twentysomething could live nowadays -- as a tech
+worker in Silicon Valley: big pay, nice apartment in the SOMA district
+of San Francisco, inspiring coworkers, wonderful friends, and lots of
+party time. I have my qualms with the Valley, but mostly I've developed
+this lingering sense of being unfulfilled, a sense that I am missing out
+on some external "thing". Maybe I'm just bored with my quotidian
+routine. In any event, I've found myself craving something novel and
+formidable.\
+
+Concurrent with my want for adventure has been a developing taste for
+more mathematical aspects of computer science. It seems that many of the
+exciting and profound developments in technology are rooted in
+computational mathematics: self-driving cars, natural language
+processing, machine learning, artificial intelligence, and
+brain-computer interfaces for example.  Elon Musk [recently
+urged entrepreneurs](http://allthingsd.com/20130529/elon-musks-plea-to-internet-entrepreneurs-do-something-different/) to
+consider areas outside of the Internet because there are many other
+industries that could use that innovative spirit.  His advice really
+struck me; there are SO many things outside of the Internet which have a
+huge impact on our lives, the aforementioned being some of the most
+exciting for me.  The Internet is greatly important and impactful and
+I'm grateful to have been a part of a company contributing to that
+(LinkedIn).  But now, I've realized there is a whole different landscape
+of exciting problems to conquer and I want to be a part of THAT.
+
+So, finally, what have I done about all this? I applied and was admitted
+to the [European Master's Program in Computational
+Logic](http://www.emcl-study.eu/), which incorporates travel through
+Europe and computational mathematics.  It's perfect...theoretically. The
+first semester is spent in [Dresden, Germany](http://tu-dresden.de/en),
+the second in [Bolzano,
+Italy](http://www.unibz.it/en/public/university/default.html), and the
+third year at either of the aforementioned or [Vienna,
+Austria](http://www.tuwien.ac.at/en/), or [Lisbon
+Portugal](http://www.unl.pt/en/).  During the intervening Summer, the
+program encourages students to do research at [NICTA in
+Australia](http://www.nicta.com.au/).  The program starts on October
+4th, well, at least that's when the orientation occurs and when I'm
+planning to be there.  I'm leaving my job on August 30th (two weeks!!!)
+to begin my journey towards Europe.
+
+I can't believe that I've made it to this point.
+

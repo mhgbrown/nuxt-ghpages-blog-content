@@ -1,0 +1,60 @@
+---
+title: Dis Wïk's Stuff
+date: '2013-12-02'
+---
+
+
+Dis Wïk's Stuff
+===============
+
+Berlin is nice. I went there again this weekend and checked some more
+shit out. I'm trying to get the vibe of Berlin. I'm not there yet. So
+far, it's making me feel pretty damn good. Berlin "is a living city" as
+one friend put it. It's not necessarily a beautiful city, but who gives
+a fuck. It's really fucking cool.
+
+I'm liking these places that have somewhat recently come out of
+significant repression --- they're progressing, they're innovating,
+they're interesting, and they're fun. The memories of this repression
+are good motivators. I went to a free museum called the ["Topography of
+Terror"](http://www.topographie.de/)  near [Checkpoint
+Charlie](https://www.google.com/maps/preview#!q=Checkpoint+Charlie%2C+Berlin%2C+Germany&data=!4m15!2m14!1m13!1s0x47a851d15c26d8cd%3A0x23a50042477d89c8!3m8!1m3!1d31549231!2d-95.677068!3d37.0625!3m2!1i1680!2i929!4f13.1!4m2!3d52.507593!4d13.390368)
+and I finally understood how fucked up the whole Nazi thing was.  Of
+course, the Berlin wall also has a massive historical presence and I was
+constantly reading about the division of Germany and even talked to some
+Germans that had lived in eastern Germany throughout the period. Man,
+what a time. I'm not knowledgeable enough to "empathize", but I've
+gotten enough of an idea to feel deeply weirded out by it.It's insane
+that the whole thing comes crashing down with a [misinterpretation of a
+note](http://en.wikipedia.org/wiki/Fall_of_the_inner_German_border#Opening_of_the_border_and_the_fall_of_the_GDR)
+and [these few words](http://www.youtube.com/watch?v=b8GzptqhT68). 
+People do ridiculous things to each other. Incredible.
+
+-   For some sort of comp sci thing, there was free Glüwein (hot spiced
+    wine) in the comp sci building. This was an excellent treat after my
+    exam last Thursday. I think they have it elsewhere on campus, but
+    you must pay for it.
+-   I have finally opened a bank account here. Jeez.
+-   You are allowed to change your place of birth if it was in a
+    particularly "shameful" place in Germany, for example, Dachau where
+    there was a [notorious concentration
+    camp](http://en.wikipedia.org/wiki/Dachau_concentration_camp).
+-   I danced under an indoor community pool! There's a club in Berlin
+    called ["Stattbad"](http://www.stattbad.net/), which is situated
+    under a decommissioned community pool. It's pretty industrial
+    looking inside as you might imagine --- lots of concrete, lots of
+    pipes, some low ceilings, etc. It has a fantastic atmosphere for
+    techno. 
+-   I stayed in [The Cat's Pajamas
+    hostel](http://www.thecatspajamashostel.de/) in Berlin, which is
+    situated in Neukölln (aka a cool hood). I'd highly recommend it.
+    It's has many accommodation options and lots of new amenities. It's
+    clean, comfortable, and cheap. While I was there, it celebrated its
+    one-year opening anniversary with free alcohol and food --- a nice
+    way to kick off the weekend.
+-   [Coffeeshops a la Amsterdam may open in
+    Berlin](http://rt.com/news/marijuana-berlin-shop-opens-462/) in an
+    attempt to curb drug dealing that occurs in [Görlitzer
+    Park](https://www.google.com/maps/preview#!data=!1m4!1m3!1d5877!2d13.4380442!3d52.4965481!4m12!2m11!1m10!1s0x0%3A0xdbc06edbfb7867fc!3m8!1m3!1d26081603!2d-95.677068!3d37.0625!3m2!1i1024!2i768!4f13.1).
+    That would be quite interesting. 
+

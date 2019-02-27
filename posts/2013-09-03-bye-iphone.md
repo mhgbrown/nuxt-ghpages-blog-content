@@ -1,0 +1,31 @@
+---
+title: BYE IPHONE
+date: '2013-09-03'
+---
+
+
+BYE IPHONE
+==========
+
+I was never able to get the issues resolved with my iPhone. I went to
+the geniuses, who then told me to call Sprint, Sprint then connected me
+to Apple Care, then the Apple Care representative put me back in the
+Sprint phone queue!  How wonderful! I hung up and [opted to recycle my
+phone for an Apple gift card](https://apple.com/recycling/gift-card).  I
+got \$246 for the phone.  That surely will put a nice dent in that
+iPhone 5S cost.
+
+So how am I surviving in the mean time?  I picked up a a [Kyocera
+Event](http://www.virginmobileusa.com/shop/cell-phones/kyocera-event-phone/features/)
+from Best Buy and signed up for a month of unlimited data and text with
+Virgin Mobile, which came to approximately \$100 total.  First, I am
+surprised that Virgin Mobile is not more of a thing. A \$35/month
+unlimited text and data plan *kills *right now. And you are not locked
+into some dumb contract. This is truly the plan for the millennial
+generation.  Second, I was surprised at the quality of the Kyocera
+phone. I mean, it's no iPhone, but it has a decent camera, can run all
+the latest apps (runs Android 4.0), and gives me the freedom to tether.
+ Sure, it can be a little sluggish at times, but nothing that has caused
+me any trouble.  It's only \$60! I'm very pleased with my replacement,
+but am still gunnin for that unlocked iPhone 5S.
+

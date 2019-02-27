@@ -1,0 +1,71 @@
+---
+title: 'Hi, But Soon Bye'
+date: '2014-01-28'
+---
+
+
+Hi, But Soon Bye
+================
+
+It's been some weeks again.  I'm finishing up my time in Dresden, and
+for that matter, in Germany.  I'm starting to feel the weight of my
+impending departure --- not excited to say goodbye to the people I'll be
+leaving behind, not excited to be far from Berlin, not excited to be in
+a city that's "a lesser transit hub". I'm leaving Dresden on the 17th of
+February, taking a long-ass train ride to Vienna to attend a [student
+workshop](http://logic.at/emclworkshop14/) for my Masters. Later, I'll
+head straight for
+[Bolzano](https://www.google.de/maps/preview/place/Bolzano,+Italy/@46.4892366,11.3471577,14z/data=!3m1!4b1!4m2!3m1!1s0x47829c2b419e7049:0x652b694f348b432a),
+where after some introductory couchsurfing, I'll find myself again
+nestled in the impoverished charm of student living --- in a
+[dorm](http://www.rainerum.it/home/) that "dictates" that you can only
+make breakfast in the kitchen and can't have people in your room after
+23:00.  What a load of total bullshit. I'll probably get kicked out. 
+
+I spent last Saturday/Sunday in Berlin, which I realize could be my last
+time in a while. As usual, had a surreal and congenial experience.  I
+really want to just live it up for my last couple weeks here, but need
+to balance pending examinations.  There's also a few things that I still
+want to see around here --- [Saxon
+Switzerland](https://www.google.de/maps/preview/place/Saxon+Switzerland/@50.9333327,14.2,15z/data=!3m1!4b1!4m2!3m1!1s0x4709a6852463563b:0xe7787b6d81b3e8f0), [the
+Leipzig
+zoo](https://www.google.de/maps/preview/place//@51.3509575,12.3680836,16z/data=!3m1!4b1!4m2!3m1!1s0x0:0x84f9c448d8df3ff4),
+and [Görlitz](https://www.google.de/maps/preview/place/gorlitz+germany/@51.13999,14.9649354,11z/data=!3m1!4b1!4m2!3m1!1s0x4708dc31a78fee7f:0x5e9effc1a38b3b57) for
+example. I will at most be done on the 13th of February, so I have some
+time to get this stuff in.
+
+-   I have unofficially accepted an offer to intern at
+    [Sumall](https://sumall.com/) in New York City this Summer. I'm
+    stoked. I need to holla at my NYC konnektions.
+-   I've also manage to get some part-time work here in Dresden, helping
+    someone get a prototype going for their startup idea. It's great to
+    be learning some new stuff and makin some cash.
+-   Some of [*Inglourious Basterds* was filmed in
+    Görlitz](http://en.wikipedia.org/wiki/G%C3%B6rlitz#G.C3.B6rlitz_in_popular_culture).
+-   Haven't written about [vk.com](http://vk.com/) yet, which is weird.
+    I should have a while ago. It's like "Russian" Facebook, except it
+    has tons of perhaps "questionably legal" media that you can stream
+    and download for free.
+-   How did I get my internship in NYC? Well, I used
+    [hired.com](https://hired.com/).  You fill out a profile describing
+    your work experience, what you'd like to do, blah blah blah and then
+    you are entered into an "auction", in which employers can "bid" on
+    you. A bid is more like an invitation to interview with some
+    preliminary tastes of what real employment might offer.  Right now,
+    the site seems to be oriented around the tech industry in the United
+    States, but is expanding!
+-   [Joseph Beuys](http://en.wikipedia.org/wiki/Joseph_Beuys), a German
+    artist, said \"Jeder mensch ein kunstler\" or "Everyone is an
+    artist"
+-   Check out this short Norwegian documentary,
+    [WHATEVEREST](http://vimeo.com/58444378), which examines the
+    inspiration behind Todd Terje's famous [Inspector
+    Norse](http://www.youtube.com/watch?v=ebjXsc0UjdQ). Even if you're
+    not into electronic music, this song will sound familiar.
+-   There's a small-ish "underground" club
+    [here](https://www.google.com/maps/preview/place//@52.5007022,13.4728237,673m/data=!3m1!1e3!4m2!3m1!1s0x47a84efa91629327:0x39cba96b39c972ee?hl=en)
+    and you should try to go. It has a wonderful vibe, great music, and
+    a huge chill-out room. Just knock!
+
+Wow, I'm almost done with this part.
+

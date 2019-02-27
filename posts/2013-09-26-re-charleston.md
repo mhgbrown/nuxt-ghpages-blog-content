@@ -1,0 +1,45 @@
+---
+title: Re Charleston
+date: '2013-09-26'
+---
+
+
+Re Charleston
+==============
+
+I spent the last two and a half weeks in Charleston, South Carolina with
+[Brandon Oxendine](http://brandonoxendine.com/), my boyfriend. As a
+native Californian, I am pre-loaded with negative stereotypes about the
+south. In a certain way, I'd love them to be true just to prove in a
+fucked up way how awesome California is. And unfortunately, I've has
+some experiences that do just that. BUT, I've also seen how great the
+city can be.
+
+The south is notorious for its negative views of homosexuality and I got
+to experience that first hand. The most impactful incident involved a
+smoothie. I was holding hands with Brandon, heading to [a
+bar](http://www.thebelmontcharleston.com), when out of nowhere a
+smoothie comes flying past my arm and hits Brandon in the leg, exploding
+with pink gunk everywhere. We quickly realized it had been tossed out of
+a passing SUV. Man, I've got to tell you, being the victim of a hate
+crime, no matter how seemingly insignificant, really changes your
+perspective of people and the culture you live in. I was shaken and very
+angry. I wondered if the next incident would be more violent. I wanted
+to key the fuck out of that SUV.  Brandon was so shaken and afraid, he
+refused my attempts to hug and comfort him. This incident and a couple
+other incidents of verbal scoffing set a tone of discomfort that lasted
+for my entire time there. I felt like I needed to watch my back for PDA.
+
+And other than that, Charleston is pretty cute and charming. The people
+I met were gracious, and personable. I got the impression that when
+someone was kind, it was true kindness. I've seen too much subtle show 
+The buildings are old and beautiful. There are a ton of great places to
+eat and drink. I loved [XBB](http://xiaobaobiscuit.com),
+and [Indaco](http://www.indacocharleston.com). It's a very walkable and
+bike-able. It's convenient. Besides for being a little too small-towny
+for me, it's theoretically quite nice. Unfortunately, it has left me
+with a sour taste.
+
+Ultimately, the main attraction in Charleston was Brandon and I had an
+amazing time with him.  I can't picture myself living there in any
+serious way for a long period of time. I mean, come on, it's The South.

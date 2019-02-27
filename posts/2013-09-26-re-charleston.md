@@ -4,7 +4,7 @@ date: '2013-09-26'
 ---
 
 
-Re Charleston
+Re: Charleston
 ==============
 
 I spent the last two and a half weeks in Charleston, South Carolina with

@@ -38,15 +38,14 @@ walkDir(inputDir, function (filePath) {
   const publishDate = new Date(Date.parse(fileMatter.data.publish))
   const day = ('00' + publishDate.getDate()).substr(-2, 2)
   const month = ('00' + (publishDate.getMonth() + 1)).substr(-2, 2)
+  const postDate = `${publishDate.getFullYear()}-${month}-${day}`
+  const postTitle = fileMatter.data.title
   // create path to save file
-  const postPath = filePath
-    .replace(/\//g, '-')
-    .replace(`${inputDir}-posts-`, 'posts/')
-    .replace(/(-\d{2}-)/, `$1${day}-`)
+  const postPath = `posts/${postDate}-${postTitle.replace(/\s+/g, '-')}.md`
   // create new contents compatible with nuxt-ghpages-blog
   const newFileContents = matter.stringify(fileMatter.content, {
-    title: fileMatter.data.title,
-    date: `${publishDate.getFullYear()}-${month}-${day}`
+    title: postTitle,
+    date: postDate
   })
 
   fs.writeFileSync(postPath, newFileContents)

@@ -26,7 +26,7 @@ const makeMatterable = function (fileContents) {
 
 // Get and convert posts from tumblr to markdown
 const inputDir = 'tumblr-posts'
-execSync(`node_modules/.bin/sky-tumblr-export -u blog.mhgbrown.is -d ${inputDir} --titles --download-images --api-key ${process.env.TUMBLR_API_KEY}`, { stdio: 'inherit' })
+execSync(`node_modules/.bin/sky-tumblr-export -u ${process.env.TUMBLR_HOST} -d ${inputDir} --titles --download-images --api-key ${process.env.TUMBLR_API_KEY}`, { stdio: 'inherit' })
 
 // Delete unused sky directory
 console.info(`Removing ${inputDir}/sky`)

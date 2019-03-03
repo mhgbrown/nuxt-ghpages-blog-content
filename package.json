@@ -4,7 +4,8 @@
   "description": "Content for nuxt-ghpages-blog",
   "main": "tumblr-posts-2-posts.js",
   "scripts": {
-    "start": "./tumblr-posts-2-posts.js"
+    "start": "./tumblr-posts-2-posts.js",
+    "post": "./create-post.js"
   },
   "repository": {
     "type": "git",

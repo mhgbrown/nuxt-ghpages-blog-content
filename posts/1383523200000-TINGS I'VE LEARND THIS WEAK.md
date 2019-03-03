@@ -3,10 +3,6 @@ title: TINGS I'VE LEARND THIS WEAK
 date: 1383523200000
 ---
 
-
-TINGS I'VE LEARND THIS WEAK
-===========================
-
 This long weekend was wonderful and weird and poignant for reasons that
 I can and cannot disclose.  Last Thursday was a holiday called
 "Reformation Day" and I have no class on Friday. I want to highlight
@@ -79,4 +75,3 @@ continuously. It's incredible.
     yummy and cheap and big.
 
 \<3
-

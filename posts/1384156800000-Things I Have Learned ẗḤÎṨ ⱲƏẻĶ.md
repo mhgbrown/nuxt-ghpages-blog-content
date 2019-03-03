@@ -3,10 +3,6 @@ title: Things I Have Learned ẗḤÎṨ ⱲƏẻĶ
 date: 1384156800000
 ---
 
-
-Things I Have Learned ẗḤÎṨ ⱲƏẻĶ
-===============================
-
 My mom came to visit this past week and I got to show her around all the
 cool spots in Dresden. Later in the week, my nanny from long ago Berte,
 also came [from
@@ -71,4 +67,3 @@ still doesn't feel real).
 -   Using "führer" is a bit taboo, obviously-ish.
 -   I have a \~\* visitor \*\~ coming for the holidays. The hint is
     built into the previous sentence.
-

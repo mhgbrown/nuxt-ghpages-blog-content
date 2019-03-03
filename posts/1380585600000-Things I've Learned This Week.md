@@ -3,10 +3,6 @@ title: Things I've Learned This Week
 date: 1380585600000
 ---
 
-
-Things I've Learned This Week
-=============================
-
 I just recently moved away the the U.S. and am staying with a friend of
 mine in Munich before I head to Dresden to start my Master's program.
 This has given me a chance to get acclimated to the German "scene".  So
@@ -62,4 +58,3 @@ far, so good.
     point you'll just vomit.  So then, you get two years of this, during
     which hopefully you get over drinking huge volumes so then you take
     it easy with the hard A. I'm skeptical.
-

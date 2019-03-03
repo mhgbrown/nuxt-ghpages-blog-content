@@ -3,10 +3,6 @@ title: Ik Leerde Sommige Dingen Deze Week
 date: 1385539200000
 ---
 
-
-Ik Leerde Sommige Dingen Deze Week
-==================================
-
 So, you're sitting in [this Greek
 restaurant](http://www.restaurantigrec.nl/) in a suburb of Amsterdam
 built on top of an artificial island. It's maybe 21:00. You're there
@@ -80,4 +76,3 @@ you take the tram to the Red Light District...
     prominent grocery store in Amsterdam.
 -   It snowed in Dresden. And now it's really cold. Ugh. I'm not
     designed for this.
-

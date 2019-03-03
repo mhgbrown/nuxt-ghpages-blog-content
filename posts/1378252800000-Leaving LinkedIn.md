@@ -3,10 +3,6 @@ title: Leaving LinkedIn
 date: 1378252800000
 ---
 
-
-Leaving LinkedIn
-================
-
 Last Thursday was my last day at LinkedIn and it was definitely sad for
 me. LinkedIn is a great place to work and I met a lot of very
 intelligent and talented people there.  I was lucky enough to have the
@@ -26,4 +22,3 @@ colleagues.
 
 I wish the best for LinkedIn and everyone there (aka better keep my
 fucking stock valuable :) )
-

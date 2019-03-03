@@ -3,10 +3,6 @@ title: What I Dislike About Germany
 date: 1397001600000
 ---
 
-
-What I Dislike About Germany
-============================
-
 I've been in Deutschland for almost 6 months now and it's about time I
 started disliking some things! Right?!  No place is perfect (maybe).
  Unfortunately, I haven't immersed myself very thoroughly in the
@@ -68,4 +64,3 @@ or *incredibly inexpensive *(e.g. a few hundred euros a semester at the
 university), and importantly recreation/fun/party are first-class
 citizens. Given all this, the effort required to have a glass of water
 or take a shit seems way too high.
-

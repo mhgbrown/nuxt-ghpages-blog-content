@@ -3,10 +3,6 @@ title: Things I've Learned This Woche
 date: 1382338800000
 ---
 
-
-Things I've Learned This Woche
-==============================
-
 Hello, I've just finished my first week of class and so far it has been
 pretty good. In one of my initial lectures I was super confused.  The
 professor presented us with these slides
@@ -67,4 +63,3 @@ I'm developing my routines, I'm getting even *more *comfortable.
     enough to stumble upon "The first lady of deep house", [Lady
     Blacktronika](https://soundcloud.com/msladyblacktronika). In fact,
     lots of deep house here in general so far. I dig it.
-

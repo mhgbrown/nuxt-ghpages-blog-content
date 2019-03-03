@@ -3,10 +3,6 @@ title: Věci jsem se naučil tento týden
 date: 1382943600000
 ---
 
-
-Věci jsem se naučil tento týden
-===============================
-
 (Hoping this title is proper Czech...)
 
 I went to Prague this weekend for first time in my life and it was
@@ -85,4 +81,3 @@ accordingly.
     (education roaming), which allows you to connect to virtually any
     European educational institution's network. This was super handy in
     Prague where I had no cell data service.
-

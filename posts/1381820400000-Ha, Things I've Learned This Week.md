@@ -3,10 +3,6 @@ title: 'Ha, Things I''ve Learned This Week'
 date: 1381820400000
 ---
 
-
-Ha, Things I've Learned This Week
-=================================
-
 I'm losing myself here and I like it.  This doesn't feel like a vacation
 anymore. This is home. I'm meeting a lot of people and becoming more
 integrated within both my German and academic circles.  I've met so many
@@ -77,4 +73,3 @@ So yeah, more of this to come.
     occasionally in Spanish. SPANISH OK?
 
 Whew, good lawrd, this is getting cool.
-

@@ -3,10 +3,6 @@ title: Karneval + Berlin
 date: 1394694000000
 ---
 
-
-Karneval + Berlin
-=================
-
 I'm in Berlin, I'm kind of settled, I'm looking for some German classes
 and I'm doing a little exploring. So far, I've become obsessed with
 [this little
@@ -64,4 +60,3 @@ Berlin thang.
     not sure to what extent this is, but there are definitely way fewer
     tricked out cars on the road. Something about safety, blah, blah,
     blah, whatever.
-

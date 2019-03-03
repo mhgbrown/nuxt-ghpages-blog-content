@@ -3,10 +3,6 @@ title: 'This Week, Things That Have Been Learned By Me'
 date: 1384761600000
 ---
 
-
-This Week, Things That Have Been Learned By Me
-==============================================
-
 Whoaaaaa, it's already the middle of November and that's freaking me out
 a little bit!  Time is really starting to fucking march and that's good
 and scary. [The University in Italy](http://www.unibz.it/) that is
@@ -83,4 +79,3 @@ tourist. I can't wait to go back.  The city gave me a good vibe.
     been around for sort of a long time and it looks like it's [really
     performant](http://stackoverflow.com/questions/2579666/getelementsbytagname-equivalent-for-textnodes).
      It weirds me out that I've never heard of it.
-

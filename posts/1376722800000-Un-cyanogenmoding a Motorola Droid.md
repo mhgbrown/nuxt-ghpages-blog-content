@@ -3,10 +3,6 @@ title: Un-cyanogenmoding a Motorola Droid
 date: 1376722800000
 ---
 
-
-Un-cyanogenmoding a Motorola Droid
-==================================
-
 This summer I took a course in Android development at [Carnegie Mellon
 University Silicon Valley](http://www.cmu.edu/silicon-valley/) (CMUSV),
 where I finished up a Master's degree in Software Engineering.  CMUSV
@@ -46,4 +42,3 @@ References:
 1.  [goo.gl/4cQmE[ ]{.invisible}](http://t.co/26M36tFIyE "http://goo.gl/4cQmE"){.twitter-timeline-link}
 2.  [goo.gl/g9MCI[ ]{.invisible}](http://t.co/317aHIZGe1 "http://goo.gl/g9MCI"){.twitter-timeline-link}
 3.  [goo.gl/xIAqh[ ]{.invisible}](http://t.co/Hye5xaIsQe){.twitter-timeline-link}
-

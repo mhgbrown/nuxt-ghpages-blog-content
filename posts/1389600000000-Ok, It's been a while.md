@@ -3,10 +3,6 @@ title: 'Ok, It''s been a while'
 date: 1389600000000
 ---
 
-
-Ok, It's been a while
-=====================
-
 And so what have I learned? I don't know, probably lots of stuff that I
 can't remember right now. I'm just mentally recovering from a great
 winter holiday with [my bae from abroad](http://brandonhaslegs.com/). We
@@ -54,4 +50,3 @@ Well, Ok, I'll try to remember something...
     I'm fixin' to go.
 -   A nine hour train ride is not so bad. I get the "fabled" charm of
     long train rides now.
-

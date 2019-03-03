@@ -3,10 +3,6 @@ title: San Francisco Post-Mortem
 date: 1379314800000
 ---
 
-
-San Francisco Post-Mortem
-=========================
-
 Now that I am officially moved away from San Francisco, I thought it
 would be a good opportunity to reflect on my time there in
 pseudo-post-mortem style.  
@@ -159,4 +155,3 @@ being myself and exploring my identity.  It's unique, special,
 wonderful, gorgeous, smart, innovative, hip, fun, delicious,
 enlightening --- a world class city. I'm excited to see how it will grow
 and improve.
-

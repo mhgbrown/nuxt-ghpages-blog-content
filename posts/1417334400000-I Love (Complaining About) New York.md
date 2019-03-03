@@ -3,10 +3,6 @@ title: I Love (Complaining About) New York
 date: 1417334400000
 ---
 
-
-I Love (Complaining About) New York
-===================================
-
 Last Summer, I had the opportunity to live and work in New York City.  I
 worked at one of [the best startups in the
 city](http://blog.sumall.com/journal/best-places-to-work-in-nyc-tech.html#ixzz3Iu9BD),
@@ -101,4 +97,3 @@ Club](http://bossanovacivicclub.com/), which, although small and maybe a
 little trashy from certain perspectives, bring the music, the vibe, and
 the crowd. The US hasn't historically been a great host of
 "overground\"techno and house parties and NY is no exception.
-

@@ -3,10 +3,6 @@ title: STUFF LEARNED THIS WEEK
 date: 1387353600000
 ---
 
-
-STUFF LEARNED THIS WEEK
-=======================
-
 The winter vacation is near!  I just have to do this one little, tiny,
 insignificant exam *ON* *SATURDAY*, which will determine whether I'm
 really cut out for this. Kind of. The exam covers all of the stuff that
@@ -54,4 +50,3 @@ attention to proper syntax.
     can apparently keep spinning for hours.
 -   Berghain's name is kind of stupid. It's a conjunction of "Kreuzberg"
     and "Friedrichshain", the names of two adjacent neighborhoods.
-

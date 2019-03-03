@@ -1,6 +1,7 @@
 ---
 title: Things I Have Learned ẗḤÎṨ ⱲƏẻĶ
 date: 1384156800000
+archived: true
 ---
 
 My mom came to visit this past week and I got to show her around all the

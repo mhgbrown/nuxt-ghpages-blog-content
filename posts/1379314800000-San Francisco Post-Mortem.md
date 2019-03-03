@@ -1,6 +1,7 @@
 ---
 title: San Francisco Post-Mortem
 date: 1379314800000
+archived: true
 ---
 
 Now that I am officially moved away from San Francisco, I thought it

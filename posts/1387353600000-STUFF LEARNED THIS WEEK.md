@@ -1,6 +1,7 @@
 ---
 title: STUFF LEARNED THIS WEEK
 date: 1387353600000
+archived: true
 ---
 
 The winter vacation is near!  I just have to do this one little, tiny,

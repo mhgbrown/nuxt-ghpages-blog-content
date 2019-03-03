@@ -1,6 +1,7 @@
 ---
 title: Ik Leerde Sommige Dingen Deze Week
 date: 1385539200000
+archived: true
 ---
 
 So, you're sitting in [this Greek

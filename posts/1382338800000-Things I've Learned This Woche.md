@@ -1,6 +1,7 @@
 ---
 title: Things I've Learned This Woche
 date: 1382338800000
+archived: true
 ---
 
 Hello, I've just finished my first week of class and so far it has been

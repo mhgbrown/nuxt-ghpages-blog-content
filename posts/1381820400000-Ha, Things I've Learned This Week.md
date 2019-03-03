@@ -1,6 +1,7 @@
 ---
 title: 'Ha, Things I''ve Learned This Week'
 date: 1381820400000
+archived: true
 ---
 
 I'm losing myself here and I like it.  This doesn't feel like a vacation

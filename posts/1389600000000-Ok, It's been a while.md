@@ -1,6 +1,7 @@
 ---
 title: 'Ok, It''s been a while'
 date: 1389600000000
+archived: true
 ---
 
 And so what have I learned? I don't know, probably lots of stuff that I

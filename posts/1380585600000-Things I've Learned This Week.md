@@ -1,6 +1,7 @@
 ---
 title: Things I've Learned This Week
 date: 1380585600000
+archived: true
 ---
 
 I just recently moved away the the U.S. and am staying with a friend of

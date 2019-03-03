@@ -1,6 +1,7 @@
 ---
 title: What I Dislike About Germany
 date: 1397001600000
+archived: true
 ---
 
 I've been in Deutschland for almost 6 months now and it's about time I

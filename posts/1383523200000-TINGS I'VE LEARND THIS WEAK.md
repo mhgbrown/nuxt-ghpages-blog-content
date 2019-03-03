@@ -1,6 +1,7 @@
 ---
 title: TINGS I'VE LEARND THIS WEAK
 date: 1383523200000
+archived: true
 ---
 
 This long weekend was wonderful and weird and poignant for reasons that

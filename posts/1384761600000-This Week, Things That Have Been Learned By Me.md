@@ -1,6 +1,7 @@
 ---
 title: 'This Week, Things That Have Been Learned By Me'
 date: 1384761600000
+archived: true
 ---
 
 Whoaaaaa, it's already the middle of November and that's freaking me out

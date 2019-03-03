@@ -1,6 +1,7 @@
 ---
 title: Un-cyanogenmoding a Motorola Droid
 date: 1376722800000
+archived: true
 ---
 
 This summer I took a course in Android development at [Carnegie Mellon

@@ -1,6 +1,7 @@
 ---
 title: Věci jsem se naučil tento týden
 date: 1382943600000
+archived: true
 ---
 
 (Hoping this title is proper Czech...)

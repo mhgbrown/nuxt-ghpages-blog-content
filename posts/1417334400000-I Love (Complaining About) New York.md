@@ -1,6 +1,7 @@
 ---
 title: I Love (Complaining About) New York
 date: 1417334400000
+archived: true
 ---
 
 Last Summer, I had the opportunity to live and work in New York City.  I

@@ -1,6 +1,7 @@
 ---
 title: Leaving LinkedIn
 date: 1378252800000
+archived: true
 ---
 
 Last Thursday was my last day at LinkedIn and it was definitely sad for

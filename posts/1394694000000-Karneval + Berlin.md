@@ -1,6 +1,7 @@
 ---
 title: Karneval + Berlin
 date: 1394694000000
+archived: true
 ---
 
 I'm in Berlin, I'm kind of settled, I'm looking for some German classes

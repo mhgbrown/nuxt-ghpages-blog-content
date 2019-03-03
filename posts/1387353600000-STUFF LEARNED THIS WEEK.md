@@ -1,4 +1,5 @@
 ---
+title: STUFF LEARNED THIS WEEK
 date: 1387353600000
 ---
 

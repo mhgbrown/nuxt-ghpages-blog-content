@@ -1,4 +1,5 @@
 ---
+title: Leaving LinkedIn
 date: 1378252800000
 ---
 

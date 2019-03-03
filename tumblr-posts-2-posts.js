@@ -41,8 +41,7 @@ walkDir(inputDir, function (filePath) {
   const postPath = `posts/${publishEpoch}-${postTitle}.md`
   // create new contents compatible with nuxt-ghpages-blog
   const newFileContents = matter.stringify(fileMatter.content, {
-    // For my posts, leave the title blank, so we don't duplicate the title in the blog
-    // title: postTitle,
+    title: postTitle,
     date: publishEpoch
   })
 

@@ -1,4 +1,5 @@
 ---
+title: Things I Have Learned ẗḤÎṨ ⱲƏẻĶ
 date: 1384156800000
 ---
 

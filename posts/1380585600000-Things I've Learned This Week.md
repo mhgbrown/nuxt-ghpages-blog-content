@@ -1,4 +1,5 @@
 ---
+title: Things I've Learned This Week
 date: 1380585600000
 ---
 

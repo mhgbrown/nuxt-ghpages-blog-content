@@ -1,4 +1,5 @@
 ---
+title: TINGS I'VE LEARND THIS WEAK
 date: 1383523200000
 ---
 

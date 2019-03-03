@@ -1,4 +1,5 @@
 ---
+title: Un-cyanogenmoding a Motorola Droid
 date: 1376722800000
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: Věci jsem se naučil tento týden
-date: '2013-10-28'
+date: 1382943600000
 ---
 
 

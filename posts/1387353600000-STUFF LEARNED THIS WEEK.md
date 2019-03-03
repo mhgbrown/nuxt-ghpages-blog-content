@@ -1,6 +1,5 @@
 ---
-title: STUFF LEARNED THIS WEEK
-date: '2013-12-18'
+date: 1387353600000
 ---
 
 

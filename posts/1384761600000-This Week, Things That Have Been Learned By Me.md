@@ -1,6 +1,5 @@
 ---
-title: 'This Week, Things That Have Been Learned By Me'
-date: '2013-11-18'
+date: 1384761600000
 ---
 
 

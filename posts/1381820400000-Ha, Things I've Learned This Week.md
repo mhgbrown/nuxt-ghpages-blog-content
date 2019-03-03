@@ -1,6 +1,5 @@
 ---
-title: 'Ha, Things I''ve Learned This Week'
-date: '2013-10-15'
+date: 1381820400000
 ---
 
 

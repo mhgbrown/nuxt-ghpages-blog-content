@@ -35,17 +35,15 @@ execSync(`rm -r ${inputDir}/sky`, { stdio: 'inherit' })
 walkDir(inputDir, function (filePath) {
   const fileContents = fs.readFileSync(filePath, 'utf8')
   const fileMatter = matter(makeMatterable(fileContents))
-  const publishDate = new Date(Date.parse(fileMatter.data.publish))
-  const day = ('00' + publishDate.getDate()).substr(-2, 2)
-  const month = ('00' + (publishDate.getMonth() + 1)).substr(-2, 2)
-  const postDate = `${publishDate.getFullYear()}-${month}-${day}`
+  const publishEpoch = Date.parse(fileMatter.data.publish)
   const postTitle = fileMatter.data.title
   // create path to save file
-  const postPath = `posts/${postDate}-${postTitle}.md`
+  const postPath = `posts/${publishEpoch}-${postTitle}.md`
   // create new contents compatible with nuxt-ghpages-blog
   const newFileContents = matter.stringify(fileMatter.content, {
-    title: postTitle,
-    date: postDate
+    // For my posts, leave the title blank, so we don't duplicate the title in the blog
+    // title: postTitle,
+    date: publishEpoch
   })
 
   fs.writeFileSync(postPath, newFileContents)

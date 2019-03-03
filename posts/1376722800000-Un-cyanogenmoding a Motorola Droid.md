@@ -1,6 +1,5 @@
 ---
-title: Un-cyanogenmoding a Motorola Droid
-date: '2013-08-17'
+date: 1376722800000
 ---
 
 

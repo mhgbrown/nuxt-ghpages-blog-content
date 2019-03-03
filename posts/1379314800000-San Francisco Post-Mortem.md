@@ -1,6 +1,5 @@
 ---
-title: San Francisco Post-Mortem
-date: '2013-09-16'
+date: 1379314800000
 ---
 
 

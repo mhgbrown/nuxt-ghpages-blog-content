@@ -1,6 +1,5 @@
 ---
-title: Things I Have Learned ẗḤÎṨ ⱲƏẻĶ
-date: '2013-11-11'
+date: 1384156800000
 ---
 
 

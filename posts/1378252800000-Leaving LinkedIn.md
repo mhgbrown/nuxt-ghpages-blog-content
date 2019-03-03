@@ -1,6 +1,5 @@
 ---
-title: Leaving LinkedIn
-date: '2013-09-03'
+date: 1378252800000
 ---
 
 

@@ -1,6 +1,5 @@
 ---
-title: Things I've Learned This Woche
-date: '2013-10-21'
+date: 1382338800000
 ---
 
 

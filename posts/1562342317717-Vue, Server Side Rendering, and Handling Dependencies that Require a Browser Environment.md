@@ -32,7 +32,7 @@ Vue.component('apexchart', () => {
 
 This is great, but our app still tries to render the component on the server. How can we delay the rendering until we're in a browser? Here's an excerpt from [Vue's SSR guide](https://ssr.vuejs.org/guide/universal.html#component-lifecycle-hooks):
 
-> Since there are no dynamic updates, of all the lifecycle hooks, only beforeCreate and created will be called during SSR. This means any code inside other lifecycle hooks such as beforeMount or mounted will only be executed on the client.
+> _Since there are no dynamic updates, of all the lifecycle hooks, only beforeCreate and created will be called during SSR. This means any code inside other lifecycle hooks such as beforeMount or mounted will only be executed on the client._
 
 We can delay the rendering of the component until it's mounted (and thus "on the client") with a simple `v-if`:
 

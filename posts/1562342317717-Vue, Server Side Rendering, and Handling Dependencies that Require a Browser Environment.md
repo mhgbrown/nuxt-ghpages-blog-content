@@ -5,8 +5,6 @@ title: >-
 date: 1562342317717
 ---
 
-Are you dealing with a dependency that requires a browser environment _on import_?
-
 In a recent project for a certain startup, I was tasked with creating graphs in an existing server-side rendered (SSR) [Nuxt.js](https://nuxtjs.org/)-based app. I elected to use [Apexcharts](https://apexcharts.com/) because, well, it's pretty cool, supports a lot of use cases, and has a convenient [Vue component](https://github.com/apexcharts/vue-apexcharts).
 
 The problem with Apexcharts in an SSR context is that it requires a browser environment _on import_. This prevents the app from building, which is clearly a no go. I experimented with [jsdom](https://github.com/jsdom/jsdom) to get around this, but encountered some issues with a missing SVG API. I didn't explore this route any further – having the graph rendered on the server isn't that important. It just needs to work in the frontend client!
@@ -38,10 +36,12 @@ This is great, but our app still tries to render the component on the server. Ho
 
 We can delay the rendering of the component until it's mounted (and thus "on the client") with a simple `v-if`:
 
-```javascript
+```html
 <template>
   <apexchart v-if="mounted" .../>
 </template>
+```
+```javascript
 <script>
 export default {
   data () {

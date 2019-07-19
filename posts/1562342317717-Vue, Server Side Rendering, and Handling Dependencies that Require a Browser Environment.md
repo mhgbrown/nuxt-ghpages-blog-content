@@ -40,10 +40,7 @@ We can delay the rendering of the component until it's mounted (and thus "on the
 <template>
   <apexchart v-if="mounted" .../>
 </template>
-<script>
-```
-```javascript
-
+<script type="application/javascript">
 export default {
   data () {
     return {
@@ -54,8 +51,6 @@ export default {
     this.mounted = true
   }
 }
-```
-```html
 </script>
 ```
 

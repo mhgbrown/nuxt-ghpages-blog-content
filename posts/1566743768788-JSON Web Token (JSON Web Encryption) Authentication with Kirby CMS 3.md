@@ -43,6 +43,8 @@ In your Kirby project, do the following to install the JWE package
 $ composer install kelvinmo/simplejwt
 ```
 
+By the way, I'm _not_ a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets.
+
 First, we set up our keyset and our API. The keyset is used to encrypt and decrypt JWE tokens. Our API is programmed as a layer on top of Kirby's API, one which performs the JWE validation, retrieves the authorization payload, pushes the authorized request to Kirby, and returns the result. The API will be mounted at `/rest` (e.g. `/rest/pages/books`).
 
 ```php
@@ -142,4 +144,4 @@ If you inspect your application in the browser, you should see a cookie called "
 01f5590ea2540ba76b6bab6846f10e72ab24ceb5%2BeyJhbGciOiJQQkVTMi1IUzI1NitBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwicDJzIjoiQjlTaW1xemhQeEUiLCJwMmMiOjQwOTZ9.9_faQkyI0FdE5lCSdbg5iNNzpTWwL2xRPte8Zq8_cgksCJPWd2fEAw.PrQFpg9HOuStzBWYlUlk4w.NfLBCpAVSgG05QzybfW0_IEFADlzArd0bueC56NANHa0vVYbD3hOR1WaOXIZKpv24h3LK2F3S-n5TWhp0kZJfob1W2xt1Y5gh3knZxUoMf9FKX3KIWvRqN32-HkGiACLL2VH7b8rQXz1jkUyFt5VdQ.ZfOn8aqn6Z4CPwgn5WoGkw
 ```
 
-Every request we make to our API will include this cookie (because that's the way cookies work 🌈) and therefore the credentials needed to do things in Kirby world. Our credentials are hidden and our frontend application needs to know nothing about how to authenticate. Cool!
+Every request we make to our API will include this cookie (because that's the way cookies work 🌈) and therefore contain the credentials needed to do things in Kirby world. Without any extra infrastructure, our credentials are hidden, and our frontend application needs to know nothing about how to authenticate. Cool!

@@ -39,11 +39,12 @@ Our new approach looks like this:
 We're not going to generate the JWE ourselves, because there are many good packages out there to do it for us. I've chosen [kelvinmo/simplejwt](https://github.com/kelvinmo/simplejwt) because it works with the default PHP environment provided by my hosting. There might be better/faster/stronger libraries out there — this one works for me because I can't change anything about the PHP installation (😭).
 
 In your Kirby project, do the following to install the JWE package
+
 ```bash
 $ composer install kelvinmo/simplejwt
 ```
 
-By the way, I'm _not_ a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets.
+_By the way, I'm not a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets. If you see a problem or have a suggestion, feel free to [open a PR for this blog post](https://github.com/mhgbrown/nuxt-ghpages-blog-content/tree/master/posts)._
 
 First, we set up our keyset and our API. The keyset is used to encrypt and decrypt JWE tokens. Our API is programmed as a layer on top of Kirby's API, one which performs the JWE validation, retrieves the authorization payload, pushes the authorized request to Kirby, and returns the result. The API will be mounted at `/rest` (e.g. `/rest/pages/books`).
 
@@ -118,7 +119,7 @@ use SimpleJWT\JWE;
 
 return function ($page, $site, $kirby) {
   // create the authorization header value
-  $authorization = 'Basic ' . base64_encode('<API-USER-EMAIL>' . ':' . '<API-USER_PASSWORD>');
+  $authorization = 'Basic ' . base64_encode('<API-USER-EMAIL>' . ':' . '<API-USER-PASSWORD>');
   // payload must be a string
   $payload = json_encode([
     // optional: "identify" a user by their IP address
@@ -140,6 +141,7 @@ return function ($page, $site, $kirby) {
 ```
 
 If you inspect your application in the browser, you should see a cookie called "jwt" with a value that looks something like this:
+
 ```bash
 01f5590ea2540ba76b6bab6846f10e72ab24ceb5%2BeyJhbGciOiJQQkVTMi1IUzI1NitBMTI4S1ciLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwicDJzIjoiQjlTaW1xemhQeEUiLCJwMmMiOjQwOTZ9.9_faQkyI0FdE5lCSdbg5iNNzpTWwL2xRPte8Zq8_cgksCJPWd2fEAw.PrQFpg9HOuStzBWYlUlk4w.NfLBCpAVSgG05QzybfW0_IEFADlzArd0bueC56NANHa0vVYbD3hOR1WaOXIZKpv24h3LK2F3S-n5TWhp0kZJfob1W2xt1Y5gh3knZxUoMf9FKX3KIWvRqN32-HkGiACLL2VH7b8rQXz1jkUyFt5VdQ.ZfOn8aqn6Z4CPwgn5WoGkw
 ```

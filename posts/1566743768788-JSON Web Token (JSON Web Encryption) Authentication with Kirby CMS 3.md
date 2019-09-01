@@ -44,7 +44,7 @@ In your Kirby project, do the following to install the JWE package
 $ composer install kelvinmo/simplejwt
 ```
 
-_By the way, I'm not a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets. If you see a problem or have a suggestion, feel free to [open a PR for this blog post](https://github.com/mhgbrown/nuxt-ghpages-blog-content/tree/master/posts)._
+_By the way, I'm not a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets. See the bottom of this post for a way to propose changes._
 
 First, we set up our keyset and our API. The keyset is used to encrypt and decrypt JWE tokens. Our API is programmed as a layer on top of Kirby's API, one which performs the JWE validation, retrieves the authorization payload, pushes the authorized request to Kirby, and returns the result. The API will be mounted at `/rest` (e.g. `/rest/pages/books`).
 
@@ -59,8 +59,8 @@ use SimpleJWT\JWE;
 // create the keyset, which will be used to encrypt and decrypt the JWE
 $set = new KeySet();
 $set->add(new SymmetricKey([
-  "kty" => "oct",
-  "k" => "<SOME-SECRET-KEY>"
+  'kty' => 'oct',
+  'k' => '<SOME-SECRET-KEY>'
 ], 'php'));
 
 return [

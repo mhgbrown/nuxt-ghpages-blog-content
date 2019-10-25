@@ -41,7 +41,7 @@ We're not going to generate the JWE ourselves, because there are many good packa
 In your Kirby project, do the following to install the JWE package
 
 ```bash
-$ composer install kelvinmo/simplejwt
+$ composer require kelvinmo/simplejwt
 ```
 
 _By the way, I'm not a PHP developer (like at all), so you might find inconsistencies or weird things in the following code snippets. See the bottom of this post for a way to propose changes._

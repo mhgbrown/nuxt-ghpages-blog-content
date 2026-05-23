@@ -1,23 +1,16 @@
-# nuxt-ghpages-blog-content [![Build Status](https://travis-ci.org/mhgbrown/nuxt-ghpages-blog-content.svg?branch=master)](http://travis-ci.org/mhgbrown/nuxt-ghpages-blog-content)
+# nuxt-ghpages-blog-content [Consolidated]
 
-> Content respository for nuxt-ghpages-blog
+> ⚠️ **Note:** This content repository has been successfully consolidated directly into the main [nuxt-ghpages-blog](https://github.com/mhgbrown/nuxt-ghpages-blog) repository under `src/content/posts/`!
 
-This respository houses the blog posts for the corresponding [nuxt-ghpages-blog](https://github.com/mhgbrown/nuxt-ghpages-blog). When an update is pushed this respository's master branch, a rebuild of the blog will be triggered.
+To simplify your deployment, update the technology stack, and optimize your developer workflow, you no longer need to maintain two split repositories. All active, deployed blog posts are now housed and version-controlled directly inside the main codebase folder.
 
-## Resources
+### Creating a New Post
 
-This content originally lived on Tumblr. I used https://github.com/skywrite/sky-tumblr-export to convert my existing blog posts to Markdown.
+To create a new markdown post, navigate to the main Astro repository and run the simplified creation script:
 
-## Usage
-
-To download and convert blog posts to markdown from a Tumblr, set TUMBLR_API_KEY and TUMBLR_HOST and run
-
-```sh
-$ npm run start
+```bash
+cd nuxt-ghpages-blog
+npm run post "My New Post Title"
 ```
 
-To create a new post
-
-```sh
-$ npm run post 'Some Long Title'
-```
+This script will automatically generate a correctly formatted markdown file with timestamp frontmatter directly inside the active Content Collections folder (`src/content/posts/`).
